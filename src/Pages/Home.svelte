@@ -284,7 +284,7 @@
     </div>
     <div class="col-7 float-right">
       <h2>Hi, I'm Gusty.</h2>
-      <!-- <p>
+      <p>
         Sekarang saya adalah murid kelas 12 di SMKN 1 banyuwangi.mengambil
         jurusan Rekayasa Perangkat Lunak,dan disinilah awal pertama kali saya
         mengenal dunia pemograman.
@@ -302,7 +302,7 @@
         saya tertarik untuk belajar lebih dalam tentang pemograman.Hingga pada
         akhirnya saat kelas 2 semester II sampai saat ini saya cenderung
         menyukai pemograman web khususnya disisi Frontend.
-      </p> -->
+      </p>
       <div class="bg-gray-dark p-3 mt-n3 ml-n3 mr-n3 email-octopus">
         <h6>
           Ocassionally, I send an email to my list. I talk about all
