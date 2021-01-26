@@ -177,13 +177,13 @@
     }
 
     li {
-      height: 50px;
+      height: 63px;
       width: 165px;
     }
 
     .title-articles {
       font-size: 12px;
-      line-height: 19px;
+      line-height: 24px;
     }
 
     .omi {
