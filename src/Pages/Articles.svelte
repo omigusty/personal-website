@@ -58,8 +58,8 @@
     }
 
     a {
-      font-size: 12px;
-      line-height: 20px;
+      font-size: 14px;
+      line-height: 22px;
     }
 
     li:before {
@@ -68,16 +68,12 @@
 
     li {
       list-style-type: disc;
-      margin-bottom: 16px;
+      margin-bottom: 10px;
       margin-left: 10px;
     }
 
-    .articles {
-      margin-top: -15px;
-    }
-
     .articles-items {
-      margin-top: -10px;
+      margin-top: 20px;
     }
   }
 </style>
@@ -91,7 +87,7 @@
       Hi, I'm Gusty. These are my articles.
     </p>
     <ul class="articles-items">
-      <li type="disc 90px"><a href="">Setup Windows Bagian Pertama</a></li>
+      <li><a href="">Setup Windows Bagian Pertama</a></li>
       <li><a href="">Panduan Melakukan Presentasi Online</a></li>
       <li><a href=""> Svelte, Sebuah Komponen Framework</a></li>
     </ul>
