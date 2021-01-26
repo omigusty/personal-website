@@ -176,9 +176,8 @@
     }
 
     li {
-      height: 56px;
+      height: 30px;
       width: 165px;
-      margin-bottom: -5px;
     }
 
     .title-articles {
@@ -200,7 +199,7 @@
     }
 
     .no-symbol li {
-      height: 75px;
+      height: 40px;
     }
 
     .p {

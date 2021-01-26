@@ -11,10 +11,6 @@
     font-weight: normal;
   }
 
-  .Header-link:hover {
-    background-color: #fff382;
-  }
-
   .active {
     height: 23px;
     width: 38px;
