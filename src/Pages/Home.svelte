@@ -57,8 +57,9 @@
   .title-articles a {
     text-decoration: none;
   }
+
   .title-articles a:hover {
-    background-color: #fff382;
+   background-color: #fff382;
   }
 
   .icon img {
@@ -176,13 +177,13 @@
     }
 
     li {
-      height: 30px;
+      height: 50px;
       width: 165px;
     }
 
     .title-articles {
       font-size: 12px;
-      line-height: 20px;
+      line-height: 19px;
     }
 
     .omi {
@@ -199,7 +200,7 @@
     }
 
     .no-symbol li {
-      height: 40px;
+      height: 35px;
     }
 
     .p {
@@ -236,7 +237,7 @@
       <h4 class="p">RECENT ARTICLES</h4>
       <ul>
         <li class="d-flex flex-items-center title-articles">
-          <a href="">Mengenal Svelte,Sebuah Komponen Framework</a>
+        <a href="">Mengenal Svelte,Sebuah Komponen Framework</a>
         </li>
         <li class="d-flex flex-items-center title-articles">
           <a href="">Setup Windows Bagian Pertama</a>
